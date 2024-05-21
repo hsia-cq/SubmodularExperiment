@@ -1,4 +1,5 @@
-# Influence_Maximization_Experiment
+
+## Influence_Maximization_Experiment
 
 To run the Influence Maximization Experiment, follow these steps:
 
